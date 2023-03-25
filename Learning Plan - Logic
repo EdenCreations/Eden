@@ -1,0 +1,72 @@
+Learning Plan to fully understand Modal x Popositional Logic
+
+
+Learning Plan:
+  - Prerequisites:
+      - Basic mathematical concepts:
+          - Sets
+          - Functions
+          - Relations
+      - Elementary logic:
+          - Statements
+          - Logical connectives (AND, OR, NOT)
+          - Truth tables
+  - Propositional Logic:
+      - Syntax:
+          - Atomic propositions
+          - Well-formed formulas (WFFs)
+      - Semantics:
+          - Interpretations
+          - Truth values
+          - Tautologies, contradictions, and contingencies
+      - Inference Rules:
+          - Modus Ponens
+          - Modus Tollens
+          - Disjunctive Syllogism
+          - Hypothetical Syllogism
+          - etc.
+      - Logical Equivalence:
+          - Laws of propositional logic (De Morgan's Laws, etc.)
+          - Proving logical equivalence
+      - Normal Forms:
+          - Conjunctive normal form (CNF)
+          - Disjunctive normal form (DNF)
+  - First-Order Logic (Predicate Logic):
+      - Syntax:
+          - Predicates
+          - Variables
+          - Quantifiers (Universal and Existential)
+      - Semantics:
+          - Interpretations
+          - Truth values in a model
+          - Validity, satisfiability, and unsatisfiability
+      - Inference Rules:
+          - Universal Instantiation (UI)
+          - Universal Generalization (UG)
+          - Existential Instantiation (EI)
+          - Existential Generalization (EG)
+  - Modal Logic:
+      - Introduction:
+          - Modalities
+          - Necessity and possibility
+      - Syntax:
+          - Modal operators (□ and ◊)
+          - Well-formed formulas
+      - Semantics:
+          - Possible worlds
+          - Accessibility relations
+          - Truth values in a model
+      - Types of Modal Logic:
+          - Alethic
+          - Temporal
+          - Epistemic
+          - Deontic
+      - Inference Rules:
+          - Modus Ponens for modal logic
+          - Necessitation Rule
+          - Distribution Axiom
+      - Systems of Modal Logic:
+          - System K
+          - System T
+          - System S4
+          - System S5
